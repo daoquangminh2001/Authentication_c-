@@ -53,6 +53,7 @@ namespace JSONWebToken.Controllers
             string token = CreateToken(user);
             return Ok(token);
         }
+        //aaaaaaaaaaaaaaaaaaa
         private string CreateToken(User user)
         {
             List<Claim> claims = new List<Claim>()
