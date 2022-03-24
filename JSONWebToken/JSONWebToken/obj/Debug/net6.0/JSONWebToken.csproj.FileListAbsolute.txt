@@ -36,3 +36,5 @@ E:\Authentication\JSONWebToken\JSONWebToken\bin\Debug\net6.0\Microsoft.Extension
 E:\Authentication\JSONWebToken\JSONWebToken\bin\Debug\net6.0\Scrutor.dll
 E:\Authentication\JSONWebToken\JSONWebToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
 E:\Authentication\JSONWebToken\JSONWebToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+E:\Authentication\JSONWebToken\JSONWebToken\bin\Debug\net6.0\IdentityServer3.dll
+E:\Authentication\JSONWebToken\JSONWebToken\bin\Debug\net6.0\Owin.dll
